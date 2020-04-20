@@ -1,0 +1,23 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "Project for Mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastasrusak/JSCourse.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anastasrusak/JSCourse/issues"
+  },
+  "homepage": "https://github.com/anastasrusak/JSCourse#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
